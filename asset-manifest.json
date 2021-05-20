@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/main.a2e07ec1.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/runtime-main.23ec3177.js",
-    "static/js/2.2b91683b.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.2b91683b.chunk.js",
-    "static/js/3.d70bcb5a.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/3.d70bcb5a.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/main.922faea4.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/runtime-main.9a4be9ff.js",
+    "static/js/2.6711f367.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.6711f367.chunk.js",
+    "static/js/3.5a50afec.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/3.5a50afec.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/index.html",
-    "static/js/2.2b91683b.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.2b91683b.chunk.js.LICENSE.txt",
+    "static/js/2.6711f367.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.6711f367.chunk.js.LICENSE.txt",
     "static/media/mdex.7ded1798.png": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/media/mdex.7ded1798.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.23ec3177.js",
-    "static/js/2.2b91683b.chunk.js",
-    "static/js/main.a2e07ec1.chunk.js"
+    "static/js/runtime-main.9a4be9ff.js",
+    "static/js/2.6711f367.chunk.js",
+    "static/js/main.922faea4.chunk.js"
   ]
 }
