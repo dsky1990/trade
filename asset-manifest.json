@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/main.7ffd6b1f.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/runtime-main.9d803433.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/main.796793c7.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/runtime-main.8ad5fddd.js",
     "static/css/2.ae460035.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/css/2.ae460035.chunk.css",
-    "static/js/2.f2304f96.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.f2304f96.chunk.js",
-    "static/js/3.36da4328.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/3.36da4328.chunk.js",
+    "static/js/2.bf52e629.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.bf52e629.chunk.js",
+    "static/js/3.1f2e3d28.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/3.1f2e3d28.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/index.html",
-    "static/js/2.f2304f96.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.f2304f96.chunk.js.LICENSE.txt",
+    "static/js/2.bf52e629.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/js/2.bf52e629.chunk.js.LICENSE.txt",
     "static/media/mdex.7ded1798.png": "https://cdn.jsdelivr.net/gh/dsky1990/trade@main/static/media/mdex.7ded1798.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d803433.js",
+    "static/js/runtime-main.8ad5fddd.js",
     "static/css/2.ae460035.chunk.css",
-    "static/js/2.f2304f96.chunk.js",
-    "static/js/main.7ffd6b1f.chunk.js"
+    "static/js/2.bf52e629.chunk.js",
+    "static/js/main.796793c7.chunk.js"
   ]
 }
