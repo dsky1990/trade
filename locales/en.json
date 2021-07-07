@@ -116,5 +116,6 @@
   "minutes": "m",
   "hours": "H",
   "day": "D",
-  "week": "W"
+  "week": "W",
+  "minute": "minutes"
 }
